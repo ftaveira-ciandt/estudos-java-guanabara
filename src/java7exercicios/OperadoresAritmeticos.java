@@ -11,7 +11,15 @@ public class OperadoresAritmeticos {
 
         int numero = 5;
         int valor = 5 + numero++;
+        int valor2 = valor+numero;
         System.out.println(valor);
+        System.out.println(valor2);
+
+
+        int x =4;
+        x += 4;
+        System.out.println(x);
+
     }
 
 }
