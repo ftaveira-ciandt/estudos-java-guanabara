@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a7443ce-7db4-4931-a9b4-bc183a97aee9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java6exercicios/TesteTipos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java6exercicios/TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java6exercicios/TiposPrimitvos2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java6exercicios/calculadoraIdade/TelaIdade.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java6exercicios/calculadoraIdade/TestaTelaIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java7exercicios/OperadoresAritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java7exercicios/operadoresswing/OperadoresSwing.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java7exercicios/operadoresswing/OperadoresSwing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java6exercicios/TesteTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java6exercicios/TesteTipos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +51,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ftaveira\Desktop\Algo Selling\Plano de Estudos\estudos-java-guanabara\src\java7exercicios\operadoresswing" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +66,11 @@
       <updated>1675268760394</updated>
       <workItem from="1675268761665" duration="32000" />
       <workItem from="1675268805008" duration="9353000" />
-      <workItem from="1675348056989" duration="3933000" />
+      <workItem from="1675348056989" duration="4285000" />
+      <workItem from="1675356648473" duration="1042000" />
+      <workItem from="1675372619510" duration="2720000" />
+      <workItem from="1675375513116" duration="2000" />
+      <workItem from="1675375615379" duration="5302000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1675285102922</created>
