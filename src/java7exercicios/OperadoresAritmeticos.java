@@ -20,6 +20,14 @@ public class OperadoresAritmeticos {
         x += 4;
         System.out.println(x);
 
+        float y = 8.3f;
+        int ar = (int) Math.floor(y);
+        System.out.println(ar);
+
+        double ale = Math.random();
+        double n = (int) (1 + ale * (10-1)  );
+        System.out.println(n);
+
     }
 
 }
